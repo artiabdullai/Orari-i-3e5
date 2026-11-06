@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(230, 214, 230);
+   
+    
+}
+h1{
+    color:rgb(180, 109, 180);
+    font-size: 45px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgba(206, 162, 182, 0.473);
+}
+th {
+    background-color: rgb(90, 3, 90);
+    color: white;
+    padding: 18px;
+}
+td {
+    border: 2px solid violet;
+    padding: 15px;
+    color: rgb(82, 6, 82);
+}
+tr:nith-child(even){
+
+    background-color: palevioletred;
+
+}
+td:hover {
+    background-color: #b8cce8;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: right;
+    padding: 20px;
+}
